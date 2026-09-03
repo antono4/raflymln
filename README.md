@@ -1,2 +1,32 @@
-Last updated: 2026-09-04 03:21:26 WIB
-Last updated: 2026-09-04 03:24:54 WIB
+# raflymaulana
+
+Personal Portofolio Website of Rafly Maulana
+
+## 📋 Overview
+
+This repository contains **69 files** and is built with the following technologies:
+
+Node.js, JavaScript
+
+## 🚀 Quick Start
+
+```bash
+npm install
+npm run dev
+npm run build
+```
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+Node.js, JavaScript
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-09-04 03:58:51 WIB*
